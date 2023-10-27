@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922324907066",
+    "firebase_url": "https://basedatemuhammed1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "basedatemuhammed1",
+    "storage_bucket": "basedatemuhammed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922324907066:android:141e6b5de938776bf5b103",
+        "android_client_info": {
+          "package_name": "com.example.prakt20_dzhorabaev_pr22107k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8195WmmDtLS2t16LKLLykjD5TkIEG4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
